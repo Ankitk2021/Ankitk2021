@@ -1,5 +1,11 @@
-## Hi there 👋
-# I am Ankit Kumar.
+## Hi there <img src="https://github.com/user-attachments/assets/89ef07e8-4459-4e12-8fdf-93bbd3062e2d" style="width:24px;height:24px;" alt="Dancing Emoji">
+# I am Ankit Kumar. 
+
+
+
+
+
+
 
 <!--
 **Ankitk2021/Ankitk2021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
