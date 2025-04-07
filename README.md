@@ -34,5 +34,5 @@ Aspiring Software Developer | Android & Web Enthusiast | 1st Year B.Tech CSE Stu
 ### Contact
 
 - [GitHub](https://github.com/Ankitk2021)  
-- [LinkedIn](#) *(Add your link)*  
+- [LinkedIn](https://www.linkedin.com/in/ankit-kumar-18b364331)
 - [Email](mailto:ankitkr5457@gmail.com) 
