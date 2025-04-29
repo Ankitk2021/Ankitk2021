@@ -16,7 +16,7 @@
 - **Languages:** Java, C++, JavaScript  
 - **Web:** HTML, CSS, React.js  
 - **Backend (learning):** Java Spring Boot  
-- **Tools:** Android Studio, VS Code, Git, Postman
+- **Tools:** Intellij Idea , VS Code, Git, Postman
 
 ---
 
